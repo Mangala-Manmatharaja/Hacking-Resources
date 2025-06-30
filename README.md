@@ -1,4 +1,4 @@
-# 🔐 Hacking Resour
+# 🔐 Hacking Resourc
 ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome Community](https://img.shields.io/badge/awesome-community-green.svg)
 
 A curated list of hacking and penetration testing resources to help you grow your skills and stay sharp in the infosec field.
